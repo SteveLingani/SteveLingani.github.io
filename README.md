@@ -166,7 +166,7 @@ And here is a tabular representation of the expected schema for the clean data:
 | total_views       | INTEGER   | NO       |
 | total_videos      | INTEGER   | NO       |
 
-  	What steps are needed to clean and shape the data into the desired format?
+- What steps are needed to clean and shape the data into the desired format?
 1. Remove unnecessary columns by only selecting the ones you need
 2. Extract Youtube channel names from the first column
 3. Rename columns using aliases
@@ -190,7 +190,7 @@ FROM
     top_uk_youtubers_2024
 
 ```
-##Create the SQL view
+## Create the SQL view
 
 ```sql
 /*
@@ -214,7 +214,7 @@ FROM
     top_uk_youtubers_2024
 ```
 
-#Testing
+# Testing
 
 What data quality and validation checks are you going to create?
 Here are the data quality tests conducted:
@@ -314,7 +314,7 @@ HAVING
 
 ## Results
 
-	What does the dashboard look like?
+- What does the dashboard look like?
 
 ![top_uk_youtubers_2024](asset/images/top_uk_youtubers_2024.gif)
 
