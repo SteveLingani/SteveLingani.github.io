@@ -14,11 +14,11 @@
   -﻿﻿ [Mockup](#mockup)
   - [Tools](#tools)
 - ﻿﻿[Development](#development)
-  - ﻿﻿[Pseudocode](#pseudocode).
+  - ﻿﻿[Pseudocode](#pseudocode)
   - ﻿﻿[Data Exploration](#data-exploration)
   - ﻿﻿[Data Cleaning](#data-cleaning)
-  - ﻿﻿[Transform the Data](#transforn-the-data),
-  - ﻿﻿[Create the SQL View](#create-the-sql-view)
+  - ﻿﻿[Transform the Data](#transforn-the-data)
+  - [Create the SQL View](#create-the-sql-view)
 - ﻿﻿[Testing](#testing)
 ﻿﻿  - [Data Quality Tests](#data-quality-tests)
 ﻿﻿- [Visualization](#visualization)
