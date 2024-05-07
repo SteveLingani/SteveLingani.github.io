@@ -219,7 +219,7 @@ FROM
 What data quality and validation checks are you going to create?
 Here are the data quality tests conducted:
 
-##Row count check
+## Row count check
 
 ```sql
 /*
