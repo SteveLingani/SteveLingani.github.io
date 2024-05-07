@@ -9,7 +9,7 @@
 
 - [Objective](#objective)
 - ﻿﻿[Data Sounce](#data-source)
--﻿﻿ Stages](#stages)
+-﻿﻿ [Stages](#stages)
 -﻿﻿ [Design](#design)
   -﻿﻿ [Mockup](#mockup)
   - [Tools](#tools)
